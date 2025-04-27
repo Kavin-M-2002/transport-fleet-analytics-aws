@@ -28,5 +28,5 @@ This project focuses on optimizing and analyzing transportation fleet data. It i
 - Visual dashboards for trip volume, fare, and behavior.
 
 ## Architecture Diagram:
-![Architecture Diagram]("C:\Users\kavin\OneDrive\Desktop\ADP Project\Architecture Diagram.png")
+![Architecture Diagram](Architecture Diagram.png)
 
