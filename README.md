@@ -27,6 +27,3 @@ This project focuses on optimizing and analyzing transportation fleet data. It i
 - Real-time notifications for critical events.
 - Visual dashboards for trip volume, fare, and behavior.
 
-## Architecture Diagram:
-![Architecture Diagram](Architecture Diagram.png)
-
