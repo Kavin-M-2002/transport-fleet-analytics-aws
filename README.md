@@ -27,5 +27,6 @@ This project focuses on optimizing and analyzing transportation fleet data. It i
 - Real-time notifications for critical events.
 - Visual dashboards for trip volume, fare, and behavior.
 
-## How to Use:
-- The solution is deployed on AWS using various services, and no local setup is required.
+## Architecture Diagram:
+![Architecture Diagram]("C:\Users\kavin\OneDrive\Desktop\ADP Project\Architecture Diagram.png")
+
