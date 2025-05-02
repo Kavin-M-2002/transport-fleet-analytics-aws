@@ -27,3 +27,4 @@ This project focuses on optimizing and analyzing transportation fleet data. It i
 - Real-time notifications for critical events.
 - Visual dashboards for trip volume, fare, and behavior.
 
+![Alt text](transport-fleet-analytics-aws/Architecture_Diagram.png)
